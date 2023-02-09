@@ -1,4 +1,4 @@
-# Despliegue de una aplicación Laravel en el VPS
+# Despliegue de una aplicación Laravel en un VPS
 
 ### 1. Lo primero que tenemos que hacer es ir al panel de control del VPS
 ![image](https://user-images.githubusercontent.com/115020443/217837697-15fe0504-9fb4-4988-ab89-135d34af3a1b.png)
@@ -39,7 +39,7 @@
 ### 13. Donde pone Laravel le damos a "Setup"
 ![image](https://user-images.githubusercontent.com/115020443/217838040-f39837db-b592-4688-b21a-fde9eb920afe.png)
 
-### 14. Ahora creamos un base de datos para esta aplicación, ponemos un nombre para el base de datos, un nombre para el usuario y una contraseña para el usuario. Despues le damos a "Install", la instalación tardará unos minutos
+### 14. Ahora creamos una base de datos para esta aplicación, ponemos un nombre para la base de datos, un nombre para el usuario y una contraseña para el usuario. Despues le damos a "Install", la instalación tardará unos minutos
 ![image](https://user-images.githubusercontent.com/115020443/217838065-62341a5d-97b8-4f79-8e2d-0ee481ca504c.png)
 
 ### 15. Cuando se acaba la instalación, entramos en la aplicación Laravel que hemos creado usando el dominio que hemos creado
